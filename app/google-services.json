@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "845080697323",
+    "firebase_url": "https://english-curriculum-default-rtdb.firebaseio.com",
+    "project_id": "english-curriculum",
+    "storage_bucket": "english-curriculum.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845080697323:android:e1209837956582935661ae",
+        "android_client_info": {
+          "package_name": "com.example.curriculumapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845080697323-sa9j9ekfqqkrl8pjepp7on7lhs9v0scc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7D8WuQNlvnIpeTTkz_V4uUesKaL5PvDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845080697323-sa9j9ekfqqkrl8pjepp7on7lhs9v0scc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

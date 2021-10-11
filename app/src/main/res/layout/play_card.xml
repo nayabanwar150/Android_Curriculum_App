@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:clickable="true"
+    android:focusable="true"
+    android:checkable="true"
+    android:elevation="16dp"
+    android:layout_margin="8dp"
+    app:strokeColor="#eeeeee"
+    app:strokeWidth="2dp"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center_horizontal"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="16dp"
+        >
+        <ImageView
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:src="@drawable/ic_youtube_icon" />
+        <TextView
+            android:gravity="center_horizontal"
+            android:id="@+id/video_title"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="4dp"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:fontFamily="@font/poppins"
+            android:text="lectures" />
+    </LinearLayout>
+</com.google.android.material.card.MaterialCardView>
